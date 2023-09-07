@@ -1,2 +1,2 @@
-# siteVDingles
-https://thiagojanus.github.io/siteVDingles/
+# siteVD
+https://thiagojanus.github.io/siteVD/
